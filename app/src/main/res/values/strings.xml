@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shine Group</string>
+    <string name="button">Login</string>
+    <string name="mobileNumberHint">Mobile number</string>
+    <string name="invalid_number">Mobile number not registered.</string>
+    <string name="group_title">Shine</string>
+    <string name="member_name">Hello, <b>%1$s</b> !</string>
+    <string name="no_permission">Sorry, You don\'t have permission.</string>
+
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
